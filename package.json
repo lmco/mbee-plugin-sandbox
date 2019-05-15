@@ -1,0 +1,13 @@
+{
+  "name": "sandbox",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "https://github.com/lmco/mbee-plugin-sandbox.git",
+  "author": "Lockheed Martin",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "express": "^4.16.4",
+    "uuid": "^3.3.2"
+  }
+}
